@@ -9,5 +9,5 @@
 ```
 
 ## Usage
-TO HAVE BETTER FUN : Do not read the code. Execute the python `program.py` file` or `app.py` file directly on terminal / zsh / bash.
+TO HAVE BETTER FUN : Do not read the code. Execute the python `program.py` file or `app.py` file directly on terminal / zsh / bash.
 </br>
