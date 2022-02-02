@@ -5,7 +5,7 @@
 1.  This "gui app + program" bundle roasts.
 2.  GUI app coming soon.
 3.  GUI App based on tkinter.
-4.  Updates until 31st Jan, 2022 only.
+4.  Updates until 16th Feb, 2022 only.
 ```
 
 ## Usage
